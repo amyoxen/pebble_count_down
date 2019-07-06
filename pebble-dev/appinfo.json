@@ -1,0 +1,67 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "amyoxen",
+    "enableMultiJS": false,
+    "longName": "Countdown",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/start.png",
+                "name": "START_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/mode.png",
+                "name": "MODE_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/pause.png",
+                "name": "PAUSE_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/reset.png",
+                "name": "RESET_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/minus.png",
+                "name": "MINUS_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/plus.png",
+                "name": "PLUS_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "BACKGROUND_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "ICON_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Countdown",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "0dfeeb6b-179a-4b5c-9f00-aad6b81e8eb3",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
